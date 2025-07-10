@@ -22,8 +22,8 @@ Requirements:
 - torch, numpy, psutil (install with: pip install torch numpy psutil)
 - CUDA-capable GPUs and NVIDIA drivers
 
-Author: [Your Name]
-Date: [Date]
+Author: Oleksii Tkachuk
+Date: 2025/07/10
 """
 
 import torch
